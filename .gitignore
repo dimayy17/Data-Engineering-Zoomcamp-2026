@@ -1,0 +1,9 @@
+*.parquet
+
+
+#byte-compiled / optimmized /DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+.venv/
+.env
